@@ -1,5 +1,6 @@
-#Login System
-#dependencies
+# Login System
+    Basic login system boilerplate (not connected to databese)
+# dependencies
     bcrypt
     passport
     passport-local
@@ -8,5 +9,5 @@
     express
     ejs
     module-override
-#To run 
+# To run 
     npm run start
