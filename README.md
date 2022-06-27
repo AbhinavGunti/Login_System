@@ -1,5 +1,5 @@
 # Login System
-    Basic login system boilerplate (not connected to databese)
+    Basic login system boilerplate (not connected to database)
 # Dependencies
     bcrypt
     passport
